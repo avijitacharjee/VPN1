@@ -1,0 +1,6 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.abdev.codestervpn.MainApplication { <init>(); }
+-keep class com.anchorfree.sdk.UnifiedSDKInitProviderVpn { <init>(); }
+-keep class com.anchorfree.vpnsdk.KeepAliveService { <init>(); }
+-keep class com.anchorfree.vpnsdk.vpnservice.AFVpnService { <init>(); }
+-keep class com.anchorfree.vpnsdk.vpnservice.StartVPNServiceShadowActivity { <init>(); }

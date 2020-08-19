@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">VPN Indonesia</string>
+    <string name="admob_app_ID">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="vpn_process_name" translatable="false">:my.custom.vpn.process.name</string>
+
+    <string name="version">V : \u0020</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="traffic_limit">%1$s of %2$s available</string>
+
+    <string name="connecting">Connecting</string>
+    <string name="paused">Paused</string>
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+
+    <string name="network_error">Network error…</string>
+    <string name="network_error_message">Internet is not available, reconnect network and try again.</string>
+    <string name="start">Start</string>
+    <string name="ok">OK</string>
+    <string name="select_country">Select Country</string>
+    <string name="default_server_ip_text">00.000.000.00</string>
+    <string name="unlimited_available">UNLIMITED Available</string>
+    <string name="best_performance_server">Best Performance Server</string>
+    <string name="start_your_3_day_free">Start your 3 day free</string>
+    <string name="go_pro_to_unlock_all_features">Go Pro to unlock all features</string>
+    <string name="_0_mb_of_0_mb_available">0 Mb of 0 Mb available</string>
+    <string name="select_country_server">Select Country server</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="change_password">Change Password</string>
+    <string name="other_info">Other Info</string>
+    <string name="rate_us">Rate us</string>
+    <string name="terms_to_use">Terms to Use</string>
+    <string name="share_app_link">Share App Link</string>
+    <string name="more_apps">More Apps</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="be_safe">BE SAFE</string>
+    <string name="you_can_browse_the_internet_in_the_most_secure_possible_way_with_full_data_encryption_we_let_you_anonymously_browse_the_internet_and_protect_your_private_information">You can browse the internet in the most secure possible way. With full data encryption, We let you anonymously browse the internet and protect your private information.</string>
+    <string name="online_freedom">ONLINE FREEDOM</string>
+    <string name="bypass_censorship_and_get_unlimited_access_to_all_of_your_favourite_websites_and_apps_without_any_fear_of_being_monitored_by_someone">Bypass censorship and get unlimited access to all of your favourite websites and apps without any fear of being monitored by someone.</string>
+    <string name="privacy_and_security">PRIVACY and SECURITY</string>
+    <string name="using_free_wi_fi_and_open_connections_puts_your_information_at_risk_we_ll_keep_your_sensitive_information_away_from_hackers_and_isps">Using free WI-fi and open connections puts your information at risk. We\'ll keep your sensitive information away from hackers and ISPs.</string>
+
+    <string name="_0_b">0 B</string>
+    <string name="location">Location :</string>
+    <string name="update_ip">Update IP</string>
+    <string name="scanning">Scanning</string>
+    <string name="Open_setting">Open Settings</string>
+</resources>

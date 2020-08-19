@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\sg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\font_averta_bold.otf.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\font\\averta_bold.otf"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ca.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ca.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hk.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\hk.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_premium.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_premium.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_select_server_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_select_server_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_off.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_off.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_upload.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_upload.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_howto1.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\howto1.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\font_averta_regular.otf.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\font\\averta_regular.otf"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_off.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_off.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ip_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_ip_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_on.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_on.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hamburger.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_hamburger.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ch.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ch.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_change_password.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_change_password.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_rounded_corner_view.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\top_rounded_corner_view.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_de.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\de.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_upload.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_upload.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hamburger.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_hamburger.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hamburger.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_hamburger.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp_three.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\grp_three.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_privacy_policy.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_privacy_policy.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_upload.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_upload.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_earth.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_earth.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tr.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\tr.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms_to_use.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_terms_to_use.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ua.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ua.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uk.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\uk.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_right_arrow.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_right_arrow.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_download.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_download.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vpn_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\vpn_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_upload.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_upload.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_premium.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_premium.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_in.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\in.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp_two.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\grp_two.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_download.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ar.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ar.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_select_server_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_select_server_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_personal_info.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_personal_info.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_select_server_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_select_server_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_off_btn.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\off_btn.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_howto2.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\howto2.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_earth.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_earth.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_es.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\es.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vpn_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\vpn_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ro.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ro.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_list_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_list_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_download.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_download.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ru.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ru.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp_five.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\grp_five.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_default.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\flag_default.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_au.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\au.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp_one.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\grp_one.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nl.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\nl.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_off.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_off.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_premium.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_premium.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\font_averta_light.otf.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\font\\averta_light.otf"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_list_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rate_us.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rate_us.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_on_btn.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\on_btn.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_br.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\br.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_on.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_on.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_select_server_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_select_server_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ip_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_ip_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_download.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_download.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gb.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\gb.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\no.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cz.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\cz.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_server_list_free.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\server_list_free.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_list_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_list_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_terms_to_use.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_terms_to_use.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ie.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\ie.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_premium.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_premium.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_layout.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_playstore.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_playstore.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_download.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_download.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_server.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_choose_server.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_off.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_off.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_off.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_off.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rate_us.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mx.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\mx.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hamburger.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_hamburger.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_step.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_step.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_region_list_item.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\region_list_item.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_earth.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_earth.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_server_signal_3.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\server_signal_3.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ip_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_ip_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sz.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\sz.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_earth.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_earth.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\drawer_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hamburger.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_hamburger.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fr.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\fr.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_it.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\it.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_list_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_list_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_list_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpn_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\vpn_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_upload.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_upload.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ip_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ip_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jp.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\jp.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy_policy.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vpn_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xxhdpi\\vpn_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_personal_info.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_personal_info.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_se.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\se.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_change_password.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_change_password.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_earth.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_earth.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ip_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_ip_background.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_terms_to_use.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_terms_to_use.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_premium.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_premium.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpn_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\vpn_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_on.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_on.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dk.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\dk.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_playstore.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_playstore.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_bg.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\drawer_bg.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_on.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-hdpi\\ic_on.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_id.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\id.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-ldpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\layout_howto3.xml.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\layout\\howto3.xml"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_on.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-xhdpi\\ic_on.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp_four.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable\\grp_four.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_privacy_policy.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_right_arrow.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_select_server_background.png.flat",
+        "source": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\src\\main\\res\\drawable-mdpi\\ic_select_server_background.png"
+    }
+]

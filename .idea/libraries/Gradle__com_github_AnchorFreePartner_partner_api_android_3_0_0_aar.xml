@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner:partner-api-android:3.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf2c5864d1454042d7ca68af1687a97/jetified-partner-api-android-3.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf2c5864d1454042d7ca68af1687a97/jetified-partner-api-android-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf2c5864d1454042d7ca68af1687a97/jetified-partner-api-android-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebf2c5864d1454042d7ca68af1687a97/jetified-partner-api-android-3.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnchorFreePartner/partner-api-android/3.0.0/90fe3035c7a7045a694c4c457f9fb273393b6094/partner-api-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnchorFreePartner/partner-api-android/3.0.0/8e846b8501acba4ccc99bd1c5683405bed15f406/partner-api-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
