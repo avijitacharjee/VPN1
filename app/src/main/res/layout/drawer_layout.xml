@@ -180,6 +180,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:visibility="gone"
             android:layout_marginTop="3dp"
             android:layout_marginBottom="3dp"
             android:background="@color/light_gray" />
@@ -190,6 +191,7 @@
             android:layout_height="30dp"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
+            android:visibility="gone"
             android:gravity="center_vertical"
             android:orientation="horizontal">
 

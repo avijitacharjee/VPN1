@@ -58,9 +58,13 @@ public class MainApplication extends MultiDexApplication {
                 .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
                 .init();
         SharedPreferences prefs = getPrefs();
-        ClientInfo clientInfo = ClientInfo.newBuilder()
+        /*ClientInfo clientInfo = ClientInfo.newBuilder()
                 .baseUrl(prefs.getString(BuildConfig.STORED_HOST_URL_KEY, "https://backend.northghost.com/"))
                 .carrierId(prefs.getString(BuildConfig.STORED_CARRIER_ID_KEY, "854712_israel2020"))
+                .build();*/
+        ClientInfo clientInfo = ClientInfo.newBuilder()
+                .baseUrl(prefs.getString(BuildConfig.STORED_HOST_URL_KEY, "https://backend.northghost.com/"))
+                .carrierId(prefs.getString(BuildConfig.STORED_CARRIER_ID_KEY, "741151_testvpn"))
                 .build();
         List<TransportConfig> transportConfigList = new ArrayList<>();
         transportConfigList.add(HydraTransportConfig.create());

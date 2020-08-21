@@ -153,9 +153,11 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
 
     @Override
     protected void connectToVpn() {
+        Log.d(TAG, "connectToVpn: ");
         isLoggedIn(new Callback<Boolean>() {
             @Override
             public void success(@NonNull Boolean aBoolean) {
+                Log.d(TAG, "success: "+aBoolean);
                 if (aBoolean) {
                     List<String> fallbackOrder = new ArrayList<>();
                     fallbackOrder.add(HydraTransport.TRANSPORT_ID);
@@ -191,6 +193,7 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
 
             @Override
             public void failure(@NonNull VpnException e) {
+                Log.d(TAG, "failure: "+e.toString());
             }
         });
     }
@@ -326,7 +329,7 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
                 @Override
                 public void success(@NonNull VPNState state) {
                     if (state == VPNState.CONNECTED) {
-                        showMessage("Reconnecting to VPN with " + selectedCountry);
+                        showMessage("Reconnecting to VPN with " + selectedCountry.toUpperCase());
                         UnifiedSDK.getInstance().getVPN().stop(TrackingConstants.GprReasons.M_UI, new CompletableCallback() {
                             @Override
                             public void complete() {
@@ -393,5 +396,17 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
                     break;
             }
         }
+    }
+
+
+
+    /**
+     * Called when pointer capture is enabled or disabled for the current window.
+     *
+     * @param hasCapture True if the window has pointer capture.
+     */
+    @Override
+    public void onPointerCaptureChanged(boolean hasCapture) {
+
     }
 }

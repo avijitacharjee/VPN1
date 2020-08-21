@@ -6,8 +6,10 @@ import android.content.ActivityNotFoundException;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.res.Resources;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
@@ -26,6 +28,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
@@ -58,11 +61,21 @@ import butterknife.OnClick;
 import retrofit2.Call;
 import retrofit2.Response;
 
+import static com.abdev.codestervpn.utils.Constant.INAPPKEY;
+import static com.abdev.codestervpn.utils.Constant.INAPPSKUUNIT;
+import static com.abdev.codestervpn.utils.Constant.MONTHLYKEY;
 import static com.abdev.codestervpn.utils.Constant.PRIMIUM_STATE;
+import static com.abdev.codestervpn.utils.Constant.PURCHASETIME;
+import static com.abdev.codestervpn.utils.Constant.SIXMONTHKEY;
+import static com.abdev.codestervpn.utils.Constant.YEARKEY;
 
-public abstract class UIActivity extends AppCompatActivity implements View.OnClickListener  {
+public abstract class UIActivity extends AppCompatActivity implements View.OnClickListener   {
 
     protected static final String TAG = MainActivity.class.getSimpleName();
+    public String SKU_DELAROY_MONTHLY;
+    public String SKU_DELAROY_SIXMONTH;
+    public String SKU_DELAROY_YEARLY;
+    public String base64EncodedPublicKey;
 
     JobScheduler tm;
     private int mJobId = 111;
@@ -94,13 +107,27 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
     @BindView(R.id.hamburger_btn)
     LinearLayout hamburger_btn;
     Toolbar toolbar;
-
+    @BindView(R.id.main_layout)
+    RelativeLayout main_layout;
     Preference preference;
     boolean mSubscribedToDelaroy = false;
     boolean connected = false;
       int[] Onconnect = {R.drawable.ic_on};
     int[] Ondisconnect = {R.drawable.ic_off};
      private LinearLayout mDrawerList;
+
+
+    private void unlockdata() {
+        if (mSubscribedToDelaroy) {
+            unlock();
+        } else {
+            preference.setBooleanpreference(PRIMIUM_STATE, false);
+        }
+        MobileAds.initialize(getApplicationContext(), getString(R.string.admob_app_ID));
+        LoadInterstitialAd();
+        LoadBannerAd();
+    }
+
     private Handler mUIHandler = new Handler(Looper.getMainLooper());
     /**
      * Update UI and check Remaining Traffic on every 10 seconds
@@ -149,21 +176,11 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
     }
 
 
-    @Override
-    public void onDestroy() {
-        super.onDestroy();
 
 
 
-    }
 
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-
-    }
-
-
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void initializeService() {
         ServiceComponent = new ComponentName(UIActivity.this, BackgroundJobService.class);
         tm = (JobScheduler) getSystemService(Context.JOB_SCHEDULER_SERVICE);
@@ -179,9 +196,18 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         loginToVpn();
-        initializeService();
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            initializeService();
+        }
 
         preference = new Preference(this);
+        SKU_DELAROY_MONTHLY = preference.getStringpreference(MONTHLYKEY, SKU_DELAROY_MONTHLY);
+        SKU_DELAROY_SIXMONTH = preference.getStringpreference(SIXMONTHKEY, SKU_DELAROY_SIXMONTH);
+        SKU_DELAROY_YEARLY = preference.getStringpreference(YEARKEY, SKU_DELAROY_YEARLY);
+
+
+
+        base64EncodedPublicKey = preference.getStringpreference(INAPPKEY, base64EncodedPublicKey);
               preference.setBooleanpreference(PRIMIUM_STATE, false);
 
             lay_pro.setVisibility(View.GONE);
@@ -211,7 +237,33 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
         share_applink.setOnClickListener(this);
         more_apps.setOnClickListener(this);
         getip();
+        img_connect.setOnClickListener(v->{
+            Log.d(TAG, "connect image clicked");
+            if(!connected) {
+                connectToVpn();
+            }
+            else {
+                disconnectFromVnp();
+            }
+            connected = ! connected;
+        });
+        main_layout.setOnClickListener(v->{
+            if(slidingRoot!=null && slidingRoot.isMenuOpened()){
+                slidingRoot.closeMenu();
+            }
+        });
     }
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+    }
+
 
     /**
      * Get connected IP 29/03/2020
@@ -238,6 +290,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
             }
         });
     }
+
 
     @Override
     public void onClick(View view) {
@@ -312,6 +365,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
                 .inject();
     }
 
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -338,12 +392,14 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
 
     @OnClick(R.id.hamburger_btn)
     public void onhamburgerclick(View v) {
-
+        Log.d(TAG, "onhamburgerclick: "+ slidingRoot.isMenuClosed());
         if (slidingRoot.isMenuOpened()) {
             slidingRoot.closeMenu();
         } else {
             slidingRoot.openMenu();
         }
+
+
      }
 
 
@@ -397,6 +453,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
                     case IDLE: {
                         Log.e(TAG, "success: IDLE" );
                         connectionStateTextView.setText(R.string.disconnected);
+                        img_connect.setImageDrawable(getResources().getDrawable(R.drawable.ic_off));
                         getip();
 //                        server_ip.setText(R.string.default_server_ip_text);
                         if (connected) {
@@ -420,6 +477,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
                         connectionStateTextView.setText(R.string.connected);
                         lin_spped.setVisibility(View.VISIBLE);
                         lay_pro.setVisibility(View.GONE);
+                        img_connect.setImageDrawable(getResources().getDrawable(R.drawable.ic_on));
                         hideConnectProgress();
                         break;
                     }

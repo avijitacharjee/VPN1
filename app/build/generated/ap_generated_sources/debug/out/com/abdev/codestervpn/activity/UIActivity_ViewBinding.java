@@ -21,7 +21,7 @@ public class UIActivity_ViewBinding implements Unbinder {
 
   private View view7f0a009b;
 
-  private View view7f0a00d6;
+  private View view7f0a00d7;
 
   private View view7f0a0092;
 
@@ -50,7 +50,7 @@ public class UIActivity_ViewBinding implements Unbinder {
     target.trafficLimitTextView = Utils.findRequiredViewAsType(source, R.id.traffic_limit, "field 'trafficLimitTextView'", TextView.class);
     view = Utils.findRequiredView(source, R.id.optimal_server_btn, "field 'currentServerBtn' and method 'onServerChooserClick'");
     target.currentServerBtn = Utils.castView(view, R.id.optimal_server_btn, "field 'currentServerBtn'", LinearLayout.class);
-    view7f0a00d6 = view;
+    view7f0a00d7 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -72,6 +72,7 @@ public class UIActivity_ViewBinding implements Unbinder {
         target.onhamburgerclick(p0);
       }
     });
+    target.main_layout = Utils.findRequiredViewAsType(source, R.id.main_layout, "field 'main_layout'", RelativeLayout.class);
   }
 
   @Override
@@ -94,11 +95,12 @@ public class UIActivity_ViewBinding implements Unbinder {
     target.lin_spped = null;
     target.lay_pro = null;
     target.hamburger_btn = null;
+    target.main_layout = null;
 
     view7f0a009b.setOnClickListener(null);
     view7f0a009b = null;
-    view7f0a00d6.setOnClickListener(null);
-    view7f0a00d6 = null;
+    view7f0a00d7.setOnClickListener(null);
+    view7f0a00d7 = null;
     view7f0a0092.setOnClickListener(null);
     view7f0a0092 = null;
   }

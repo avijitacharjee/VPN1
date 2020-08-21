@@ -16,6 +16,13 @@ public class Constant {
     public static final String BUNDLE = "Bundle";
     public static final String SELECTED_COUNTRY = "selected_country";
 
+    public static final String INAPPSKUUNIT ="inappskuunit";
+    public static final String  PURCHASETIME="purchasetime";
+    public static final String INAPPKEY ="inappkey";
+    public static final String MONTHLYKEY ="monthkey";
+    public static final String SIXMONTHKEY ="sixmonthkey";
+    public static final String YEARKEY ="yearkey";
+
 
     public Constant(Context context) {
         this._context = context;
