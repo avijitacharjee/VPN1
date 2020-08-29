@@ -124,7 +124,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
             preference.setBooleanpreference(PRIMIUM_STATE, false);
         }
         MobileAds.initialize(getApplicationContext(), getString(R.string.admob_app_ID));
-        LoadInterstitialAd();
+        //LoadInterstitialAd();
         LoadBannerAd();
     }
 
@@ -213,7 +213,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
             lay_pro.setVisibility(View.GONE);
             lin_spped.setVisibility(View.VISIBLE);
             MobileAds.initialize(this, getString(R.string.admob_app_ID));
-           // LoadInterstitialAd();
+            //LoadInterstitialAd();
 
             LoadBannerAd();
 
@@ -405,7 +405,7 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
 
     @OnClick(R.id.img_connect)
     public void onConnectBtnClick(View v) {
-        LoadInterstitialAd();
+        //LoadInterstitialAd();
         isConnected(new Callback<Boolean>() {
             @Override
             public void success(@NonNull Boolean aBoolean) {

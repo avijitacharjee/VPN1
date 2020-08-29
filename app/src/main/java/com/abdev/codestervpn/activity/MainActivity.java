@@ -178,7 +178,7 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
                         public void complete() {
                             hideConnectProgress();
                             startUIUpdateTask();
-                            LoadInterstitialAd();
+                            //LoadInterstitialAd();
                         }
 
                         @Override
@@ -209,7 +209,7 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
             public void complete() {
                 hideConnectProgress();
                 stopUIUpdateTask();
-                LoadInterstitialAd();
+                //LoadInterstitialAd();
             }
 
             @Override
@@ -318,7 +318,7 @@ public class MainActivity extends UIActivity implements TrafficListener, VpnStat
      * @param item Country data
      */
     public void onRegionSelected(CountryData item) {
-        LoadInterstitialAd();
+        //LoadInterstitialAd();
         final Country new_countryValue = item.getCountryvalue();
         if (!item.isPro()) {
             selectedCountry = new_countryValue.getCountry();
