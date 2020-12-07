@@ -1,10 +1,10 @@
-#Sat Aug 29 14:43:15 BDT 2020
+#Mon Dec 07 19:27:59 BDT 2020
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=I\:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
-base.1=I\:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
-base.0=I\:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.2=I\:\\Projects\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
+base.1=I\:\\Projects\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+base.0=I\:\\Projects\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex

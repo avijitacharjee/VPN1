@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73de2091b8d6570bfb78fdd6758937d8/jetified-corevpn-0.17.12/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73de2091b8d6570bfb78fdd6758937d8/jetified-corevpn-0.17.12/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73de2091b8d6570bfb78fdd6758937d8/jetified-corevpn-0.17.12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e622eae5b0b9116fda18b652edc77486/jetified-corevpn-0.17.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e622eae5b0b9116fda18b652edc77486/jetified-corevpn-0.17.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e622eae5b0b9116fda18b652edc77486/jetified-corevpn-0.17.12/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

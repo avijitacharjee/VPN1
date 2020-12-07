@@ -2,11 +2,15 @@
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:reporting:0.17.12@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68f033fc2e6d2017a8dbc3a9b3047966/jetified-reporting-0.17.12/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1776a290ecc710d78cabdef5f72f70c4/jetified-reporting-0.17.12/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68f033fc2e6d2017a8dbc3a9b3047966/jetified-reporting-0.17.12/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68f033fc2e6d2017a8dbc3a9b3047966/jetified-reporting-0.17.12/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68f033fc2e6d2017a8dbc3a9b3047966/jetified-reporting-0.17.12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1776a290ecc710d78cabdef5f72f70c4/jetified-reporting-0.17.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1776a290ecc710d78cabdef5f72f70c4/jetified-reporting-0.17.12/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1776a290ecc710d78cabdef5f72f70c4/jetified-reporting-0.17.12/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

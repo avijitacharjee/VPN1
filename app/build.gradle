@@ -31,7 +31,7 @@ android {
         buildConfigField "String", "TERMS_TO_USE", "\"https://privacypolicyspo.blogspot.com/2020/06/terms-for-using-vpn-indonesia.html\""
 
 
-
+        project.ext.set("archivesBaseName", "VPN Indonesia-" + defaultConfig.versionName);
     }
     signingConfigs {
         release {

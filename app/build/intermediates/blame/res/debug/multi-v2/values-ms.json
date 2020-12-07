@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "I:\\Projects\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Avijit Acharjee\\.gradle\\caches\\transforms-2\\files-2.1\\039891c5f331211b554f0e74332e4968\\jetified-play-services-ads-19.1.0\\res\\values-ms\\values.xml",

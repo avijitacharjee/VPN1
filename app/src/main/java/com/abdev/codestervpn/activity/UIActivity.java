@@ -176,10 +176,6 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
     }
 
 
-
-
-
-
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     private void initializeService() {
         ServiceComponent = new ComponentName(UIActivity.this, BackgroundJobService.class);
@@ -424,7 +420,10 @@ public abstract class UIActivity extends AppCompatActivity implements View.OnCli
 
     @OnClick(R.id.optimal_server_btn)
     public void onServerChooserClick(View v) {
-        LoadInterstitialAd();
+        TextView textView = v.findViewById(R.id.selected_server);
+        if(textView.getText().toString().equals("Select Country")){
+            LoadInterstitialAd();
+        }
         chooseServer();
     }
 

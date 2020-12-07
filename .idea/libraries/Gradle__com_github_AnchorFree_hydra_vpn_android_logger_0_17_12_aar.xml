@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ab7587e8657bf2c015885b7a9bbb6e9/jetified-logger-0.17.12/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ab7587e8657bf2c015885b7a9bbb6e9/jetified-logger-0.17.12/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ab7587e8657bf2c015885b7a9bbb6e9/jetified-logger-0.17.12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20fb17c741997c6e64ff97ba78544283/jetified-logger-0.17.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20fb17c741997c6e64ff97ba78544283/jetified-logger-0.17.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20fb17c741997c6e64ff97ba78544283/jetified-logger-0.17.12/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

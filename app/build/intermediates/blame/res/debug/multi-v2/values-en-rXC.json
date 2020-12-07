@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\Development\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "I:\\Projects\\Android\\Foreign Clinents\\VPN\\VPN1\\VPN1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Avijit Acharjee\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
